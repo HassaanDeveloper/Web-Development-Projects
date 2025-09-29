@@ -1,0 +1,21 @@
+.hero {
+    background: url('/second_nextjs/public/images/hero-bg.jpeg') no-repeat center center;
+    background-size: cover;
+    min-height: 546px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+  }
+  
+  .hero h2 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    padding-top: 20px;
+  }
+    
